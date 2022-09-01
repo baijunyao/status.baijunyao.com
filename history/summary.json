@@ -5,15 +5,15 @@
     "icon": "https://favicons.githubusercontent.com/baijunyao.com",
     "slug": "baijunyao-blog",
     "status": "up",
-    "uptime": "97.59%",
+    "uptime": "97.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.59%",
+    "uptimeYear": "97.60%",
     "time": 2449,
-    "timeDay": 14238,
-    "timeWeek": 5236,
-    "timeMonth": 2905,
+    "timeDay": 2243,
+    "timeWeek": 5244,
+    "timeMonth": 2914,
     "timeYear": 2449,
     "dailyMinutesDown": {
       "2022-06-25": 126,
@@ -38,8 +38,7 @@
       "2021-09-13": 931,
       "2021-09-12": 1440,
       "2021-09-11": 798,
-      "2021-09-02": 104,
-      "2021-09-01": 289
+      "2021-09-02": 104
     }
   }
 ]
