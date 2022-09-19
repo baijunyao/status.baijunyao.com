@@ -4,8 +4,8 @@
     "url": "https://baijunyao.com",
     "icon": "https://favicons.githubusercontent.com/baijunyao.com",
     "slug": "baijunyao-blog",
-    "status": "up",
-    "uptime": "97.68%",
+    "status": "down",
+    "uptime": "97.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.22%",
     "uptimeMonth": "99.67%",
@@ -16,6 +16,7 @@
     "timeMonth": 3558,
     "timeYear": 2429,
     "dailyMinutesDown": {
+      "2022-09-19": 0,
       "2022-09-15": 54,
       "2022-09-13": 25,
       "2022-09-09": 67,
