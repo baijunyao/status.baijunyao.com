@@ -4,8 +4,8 @@
     "url": "https://baijunyao.com",
     "icon": "https://icons.duckduckgo.com/ip3/baijunyao.com.ico",
     "slug": "baijunyao-blog",
-    "status": "up",
-    "uptime": "98.03%",
+    "status": "down",
+    "uptime": "98.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
@@ -16,6 +16,7 @@
     "timeMonth": 2060,
     "timeYear": 2520,
     "dailyMinutesDown": {
+      "2022-11-29": 0,
       "2022-10-31": 18,
       "2022-10-30": 20,
       "2022-10-26": 25,
