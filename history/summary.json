@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/baijunyao.com.ico",
     "slug": "baijunyao-blog",
     "status": "up",
-    "uptime": "98.10%",
+    "uptime": "98.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.09%",
     "time": 2260,
-    "timeDay": 1997,
-    "timeWeek": 1991,
-    "timeMonth": 1949,
+    "timeDay": 1624,
+    "timeWeek": 1992,
+    "timeMonth": 1947,
     "timeYear": 2488,
     "dailyMinutesDown": {
       "2024-03-27": 24,
@@ -22,8 +22,7 @@
       "2023-10-04": 463,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
-      "2023-10-01": 1303,
-      "2023-09-19": 16
+      "2023-10-01": 1303
     }
   }
 ]
