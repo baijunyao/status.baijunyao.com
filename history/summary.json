@@ -6,9 +6,9 @@
     "slug": "baijunyao-blog",
     "status": "down",
     "uptime": "98.19%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 2363,
     "timeDay": 1897,
@@ -16,7 +16,7 @@
     "timeMonth": 1839,
     "timeYear": 1821,
     "dailyMinutesDown": {
-      "2024-11-09": 0,
+      "2024-11-09": 20,
       "2024-03-27": 24,
       "2024-01-24": 95,
       "2024-01-11": 18
