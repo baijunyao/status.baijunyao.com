@@ -10,14 +10,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 1881,
-    "timeDay": 1994,
-    "timeWeek": 1938,
-    "timeMonth": 1999,
+    "time": 1882,
+    "timeDay": 1975,
+    "timeWeek": 1914,
+    "timeMonth": 2006,
     "timeYear": 1907,
     "dailyMinutesDown": {
-      "2024-11-09": 555,
-      "2024-03-27": 24
+      "2024-11-09": 555
     }
   }
 ]
