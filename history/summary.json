@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/baijunyao.com.ico",
     "slug": "baijunyao-blog",
     "status": "up",
-    "uptime": "98.40%",
+    "uptime": "98.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 1902,
-    "timeDay": 2002,
-    "timeWeek": 1781,
-    "timeMonth": 1960,
-    "timeYear": 1927,
+    "time": 1903,
+    "timeDay": 2360,
+    "timeWeek": 1867,
+    "timeMonth": 1975,
+    "timeYear": 1929,
     "dailyMinutesDown": {
       "2024-11-09": 555
     }
