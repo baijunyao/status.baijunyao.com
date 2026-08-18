@@ -4,16 +4,16 @@
     "url": "https://baijunyao.com",
     "icon": "https://icons.duckduckgo.com/ip3/baijunyao.com.ico",
     "slug": "baijunyao-blog",
-    "status": "down",
-    "uptime": "98.76%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "99.86%",
-    "time": 1924,
-    "timeDay": 1239,
-    "timeWeek": 1781,
-    "timeMonth": 1761,
+    "status": "up",
+    "uptime": "98.75%",
+    "uptimeDay": "83.38%",
+    "uptimeWeek": "97.63%",
+    "uptimeMonth": "99.19%",
+    "uptimeYear": "99.82%",
+    "time": 1923,
+    "timeDay": 1571,
+    "timeWeek": 1796,
+    "timeMonth": 1765,
     "timeYear": 1900,
     "dailyMinutesDown": {
       "2025-08-19": 69,
@@ -28,7 +28,8 @@
       "2026-07-04": 3,
       "2026-07-03": 27,
       "2026-07-24": 60,
-      "2026-07-30": 57
+      "2026-07-30": 57,
+      "2026-08-18": 239
     }
   }
 ]
